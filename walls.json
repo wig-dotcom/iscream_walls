@@ -42,7 +42,7 @@
 		"url": "https://github.com/wig-dotcom/iscream_walls/raw/main/05_png.png",
 		"thumbnail": "https://github.com/wig-dotcom/iscream_walls/raw/main/05_jpg.jpg",
 		"collections": "Various",
-   		"downloadable": "True
+   		"downloadable": "True"
     }, 
     {
 		
@@ -50,7 +50,7 @@
 		"url": "https://github.com/wig-dotcom/iscream_walls/raw/main/06_png.png",
 		"thumbnail": "https://github.com/wig-dotcom/iscream_walls/raw/main/06_jpg.jpg",
 		"collections": "Various",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "ISC 28",
