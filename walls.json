@@ -69,8 +69,9 @@
 		"url": "https://github.com/wig-dotcom/iscream_walls/raw/main/09_png.png",
 		"thumbnail": "https://github.com/wig-dotcom/iscream_walls/raw/main/09_jpg.jpg",
 		"collections": "Various",
-	},	"downloadable": "True"
-	{
+		"downloadable": "True"
+    },
+    {
 		"name": "ISC 1",
 		"author": "various",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/iscream_walls/main/20220825_124137_0000.png",
